@@ -7,8 +7,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/leftyjaal?label=Follow&style=social)
   
 ## about me
-
-* i'm currently learning DeepLearning.AI Machine Learning Specialization at Coursera.
 * i'm a geek guy, who seck and search about tech topics
 * i'm a goat, cause i like to go outdoors and hike!
 
@@ -22,6 +20,5 @@ class Alberto:
 ``` 
   
 ## current setup:
-
 * Custom PC: Windows 11 with WSL Ubuntu
 * Laptop with [PopOs!](https://pop.system76.com/)
