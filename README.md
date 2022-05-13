@@ -1,6 +1,7 @@
-<h1 align="center"> hi there! im alberto 👋</h1>
+<h1 align="center"> Hi there, I'm Alberto León 👋</h1>
 
-<h3 align="center"> I'm a Computer engineer from MX! </h3>
+[comment]: <> <p><em>Member Technical Staff <a href="https://www.oracle.com/index.html">@Oracle</a>
+</br><em>B.S. Computer Engineering at <a href="http://www.udg.mx/en">University of Guadalajara</a></p>
 
 ## about me
 
@@ -11,4 +12,4 @@
 ## current setup:
 
 * Custom PC: Windows 11 with WSL Ubuntu
-* Laptop with [PopOs!](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/nvidia/6/pop-os_22.04_amd64_nvidia_6.iso)
+* Laptop with [PopOs!](https://pop.system76.com/)
