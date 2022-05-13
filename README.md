@@ -12,6 +12,10 @@
 * i'm a geek guy, who seck and search about tech topics
 * i'm a goat, cause i like to go outdoors and hike!
 
+```{python}
+x = [1, 2, 3]
+``` 
+  
 ## current setup:
 
 * Custom PC: Windows 11 with WSL Ubuntu
