@@ -4,7 +4,7 @@
 </br><em>B.S. Computer Engineering at <a href="http://www.udg.mx/en">University of Guadalajara</a> @ <a href="http://www.cucei.udg.mx/es/acerca-de">CUCEI</a> </p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-AlbertoLeon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-le%C3%B3n/)](https://www.linkedin.com/in/alberto-le%C3%B3n/)
-![GitHub followers](https://img.shields.io/github/followers/luismedinag?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/leftyjaal?label=Follow&style=social)
   
 ## about me
 
