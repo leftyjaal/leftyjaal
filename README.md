@@ -13,7 +13,12 @@
 * i'm a goat, cause i like to go outdoors and hike!
 
 ```{python}
-x = [1, 2, 3]
+class Alberto:
+  coding = [Python, Go, JavaScript, C++]
+  tools = [Git, Unix/Bash, VIM, Docker]
+  frameworks = [React, VUE]
+  libraries = [OpenCV, Numpy, TensorFlow]
+  cloud = AWS
 ``` 
   
 ## current setup:
