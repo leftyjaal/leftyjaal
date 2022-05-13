@@ -3,10 +3,8 @@
 <p><em>Software Engineer 
 </br><em>B.S. Computer Engineering at <a href="http://www.udg.mx/en">University of Guadalajara</a> @ <a href="http://www.cucei.udg.mx/es/acerca-de">CUCEI</a> </p>
 
-## about me
-* i'm a geek guy, who seck and search about tech topics
-* i'm a goat, cause i like to go outdoors and hike!
-
+## A bit about me
+* I really like tech topics, hiking, videogames and Japan Culture 🎏🧨
 ```{python}
 class Alberto:
   coding = [Python, Go, JavaScript, C++]
