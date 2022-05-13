@@ -11,4 +11,4 @@
 ## current setup:
 
 * Custom PC: Windows 11 with WSL Ubuntu
-* Acer Laptop with PopOs!
+* Laptop with [PopOs!](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/nvidia/6/pop-os_22.04_amd64_nvidia_6.iso)
