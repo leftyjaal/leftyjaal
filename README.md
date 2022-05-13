@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Alberto León 👋</h1>
 
-[comment]: <> <p><em>Member Technical Staff <a href="https://www.oracle.com/index.html">@Oracle</a>
+<p><em>Software Engineer
 </br><em>B.S. Computer Engineering at <a href="http://www.udg.mx/en">University of Guadalajara</a></p>
 
 ## about me
