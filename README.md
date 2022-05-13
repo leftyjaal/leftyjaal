@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Alberto León 👋</h1>
 
 <p><em>Software Engineer 
-</br><em>B.S. Computer Engineering at <a href="http://www.udg.mx/en">University of Guadalajara</a> <a href="http://www.cucei.udg.mx/es/acerca-de">@CUCEI</a> </p>
+</br><em>B.S. Computer Engineering at <a href="http://www.udg.mx/en">University of Guadalajara</a> @ <a href="http://www.cucei.udg.mx/es/acerca-de">CUCEI</a> </p>
 
 ## about me
 
