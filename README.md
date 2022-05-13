@@ -18,7 +18,6 @@ class Alberto:
   libraries = [OpenCV, Numpy, TensorFlow]
   cloud = AWS
 ``` 
-  
 ## current setup:
 * Custom PC: Windows 11 with WSL Ubuntu
 * Laptop with [PopOs!](https://pop.system76.com/)
