@@ -10,7 +10,7 @@ class Alberto:
   coding = [Python, Go, JavaScript, C++]
   tools = [Git, Unix/Bash, VIM, Docker]
   frameworks = [React, VUE]
-  libraries = [OpenCV, Numpy, TensorFlow]
+  libraries = [OpenCV, Numpy, TensorFlow, 🤗]
   cloud = AWS
 ``` 
 ## current setup:
