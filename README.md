@@ -4,7 +4,7 @@
 </br><em>B.S. Computer Engineering from <a href="http://www.udg.mx/en">University of Guadalajara</a> @ <a href="http://www.cucei.udg.mx/es/acerca-de">CUCEI</a> </p>
 
 ## A bit about me
-* I really like tech topics, hiking, videogames and Japan Culture 🎏🧨
+* I really like tech topics, hiking, videogames and Japanese Culture 🎏🧨
 ```{python}
 class Alberto:
   coding = [Python, Go, JavaScript, C++]
