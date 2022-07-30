@@ -1,15 +1,15 @@
 <h1 align="center"> Hi there, I'm Alberto León 👋</h1>
 
-<p><em>Software Engineer 
+<p><em>Software Engineer @ IVF2.0.ai
 </br><em>B.S. Computer Engineering from <a href="http://www.udg.mx/en">University of Guadalajara</a> @ <a href="http://www.cucei.udg.mx/es/acerca-de">CUCEI</a> </p>
 
 ## A bit about me
 * I really like tech topics, hiking, videogames and Japanese Culture 🎏🧨
 ```{python}
 class Alberto:
-  coding = [Python, Go, JavaScript, C++]
-  tools = [Git, Unix/Bash, VIM, Docker]
-  frameworks = [React, VUE]
+  coding = [Python, Go, JavaScript, C#]
+  tools = [Git, Unix, VIM, Docker]
+  frameworks = [React, VUE, Angular]
   libraries = [OpenCV, Numpy, TensorFlow, 🤗]
   cloud = AWS
 ``` 
