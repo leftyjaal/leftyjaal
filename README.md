@@ -1,21 +1,16 @@
-<h1 align="center"> Hi there, I'm Alberto León 👋</h1>
+<h1 align="center"> Hi there 👋, I'm Alberto</h1>
 
-<p><em>Software Engineer @ IVF2.0.ai
-</br><em>B.S. Computer Engineering from <a href="http://www.udg.mx/en">University of Guadalajara</a> @ <a href="http://www.cucei.udg.mx/es/acerca-de">CUCEI</a> </p>
-
+I'm a 23 years old Software Engineer based in México. Currently i'm working at IVF2.0 developing tools for the assistance and automatization of the IVF process and preparing for admision exams for a Masters in artificial inteligence. 
+  
 ## A bit about me
 * I really like tech topics, hiking, videogames and Japanese Culture 🎏🧨
+
 ```{python}
-class Alberto:
+Stack:
   coding = [Python, Go, JavaScript, C#]
   tools = [Git, Unix, VIM, Docker]
   frameworks = [React, VUE, Angular]
   libraries = [OpenCV, Numpy, TensorFlow, 🤗]
   cloud = AWS
 ``` 
-## current setup:
-* Custom PC: Windows 11 with WSL Ubuntu
-* Laptop with [PopOs!](https://pop.system76.com/)
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-AlbertoLeon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-le%C3%B3n/)](https://www.linkedin.com/in/alberto-le%C3%B3n/)
-![GitHub followers](https://img.shields.io/github/followers/leftyjaal?label=Follow&style=social)
