@@ -1,14 +1,12 @@
-<h1 align="center"> Hi there 👋, I'm Alberto</h1>
+<h1 align="center"> Hi 👋, I'm Alberto</h1>
 
-I'm a 23 years old Software Engineer based in México. Currently i'm working at IVF2.0 developing tools for the assistance and automatization of the IVF process and preparing for admision exams for a Masters in artificial inteligence. 
-I really like tech topics, hiking, videogames and Japanese Culture 🎏🧨
+I'm a 24 years old Software Engineer based in México. I'm pursuing my master's in Bio engineering and Artifitial inteligence while working as a software engineer at IVF 2.0. 
+
+## Stack 
 
 ```{python}
-Stack:
-  coding = [Python, Go, JavaScript, C#]
-  tools = [Git, Unix, VIM, Docker]
-  frameworks = [React, VUE, Angular]
-  libraries = [OpenCV, Numpy, TensorFlow, 🤗]
-  cloud = AWS
+  Development:
+  - Python, C#, JavaScript.
+  - Flask, React, AWS, Docker, Vagrant, Unity.
 ``` 
 
